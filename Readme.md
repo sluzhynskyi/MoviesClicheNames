@@ -50,6 +50,7 @@ $ pip install -r requirements.txt
 ```
 ### Usage :zap:
 Download  [Imdb data](https://datasets.imdbws.com/)
+
 Run main.py
 
 
